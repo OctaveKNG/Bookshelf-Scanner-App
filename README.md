@@ -1,5 +1,11 @@
 # Bookshelf Scanner App (Lumina)
 
+<div align="center">
+  <img src="assets/screenshot.png" alt="Lumina Bookshelf Scanner App Screenshot" width="600"/>
+</div>
+
+
+
 Turn your bookshelf photos into a customized digital library instantly using AI! 
 
 Lumina is a lightweight, responsive web application that allows users to upload a photo of their bookshelf. It uses the **Google Gemini Vision API** to analyze the image, extract the visible books (titles and authors), and returns a clean digital list.
