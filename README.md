@@ -1,7 +1,10 @@
 # Bookshelf Scanner App (Lumina)
 
 <div align="center">
-  <img src="assets/screenshot.png" alt="Lumina Bookshelf Scanner App Screenshot" width="600"/>
+  <img src="assets/Capture d'écran 2026-03-12 171454.png" alt="Lumina Bookshelf Scanner App Screenshot" width="600"/>
+</div>
+<div align="center">
+  <img src="assets/Capture d'écran 2026-03-12 171535.png" alt="Lumina Bookshelf Scanner App Screenshot" width="600"/>
 </div>
 
 
